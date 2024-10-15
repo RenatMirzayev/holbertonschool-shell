@@ -1,5 +1,5 @@
 #!/bin/bash
-# Скрипт для отображения содержимого текущей директории
-
+# Script to display the contents of the current directory
 ls
+
 
